@@ -132,3 +132,4 @@ dmypy.json
 # Secrets
 .env
 **/secrets
+**env_variables.yaml
