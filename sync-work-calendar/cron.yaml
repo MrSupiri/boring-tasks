@@ -1,0 +1,5 @@
+cron:
+- description: "sync calander"
+  url: /sync
+  schedule: every day 00:00
+  timezone: Asia/Colombo
